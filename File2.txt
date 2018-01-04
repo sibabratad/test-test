@@ -1,2 +1,4 @@
 file2 content to main branch
 Addition comments to file2
+
+Stashed contents file2
