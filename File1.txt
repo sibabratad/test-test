@@ -1,2 +1,4 @@
 file1 content to main branch
 Additional comments
+
+branch 2 contents added
